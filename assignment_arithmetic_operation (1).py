@@ -30,12 +30,14 @@
 
 #Exercise 8: Convert 135 minutes into hours and minutes
 #Solution: 135//60 gives you 2
- #Solution:  135%60 gives you 15
+#Solution:  135%60 gives you 15
+#Solution:So, 135 minutes = 2 hours and 15 minutes
 
 #Exercise 9: Find the average of 10, 20, and 30
-#Solution: 20
+#Average: 20.0
 
 #Exercise 10:You have 535 seconds. Use Python arithmetic to convert this into minutes and remaining seconds.
 #Hint: Use // for the minutes and % for the remaining seconds.
 #Solution:  535 // 60 = 8
 #Solution:  535 % 60 = 55
+#Solution:So, 535 seconds = 8 minutes and 55 seconds
